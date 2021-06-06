@@ -13,5 +13,7 @@ En este curso vemos de todo:
 
 Y como un amable recordatorio: ** Haz del pull antes de push SIEMPRE!**  
 
+### **[Aquí](https://jessytpt.github.io/hyperblog/blogpost.html "Aquí")** puedes ver el resultado final de Hyperblog y
+
 ### Te invito a visitar mi [**Portafolio**](https://jessytpt.github.io "**Portafolio**") :)
 
