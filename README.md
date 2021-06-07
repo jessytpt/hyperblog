@@ -9,6 +9,7 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy(es cierto, hay alguien más en este curso llamada Anita)
+* Creado por Jessenia Toapanta
 
 
 Y como un amable recordatorio: ** Haz del pull antes de push SIEMPRE!**  
